@@ -22,7 +22,7 @@ The dataset for this exercise has been derived from the `Indeed Data Scientist/A
     NE
 
 7.	Select unique job titles from the data_analyst_jobs table. How many are there?
-    881
+    774
 
 8.	How many unique job titles are there for California companies?
     230
@@ -35,8 +35,7 @@ The dataset for this exercise has been derived from the `Indeed Data Scientist/A
     Google - 4.3
 
 11.	Find all the job titles that contain the word ‘Analyst’. How many different job titles are there?
-    1793
-    Distinct - 2
+    774
 
 12.	How many different job titles do not contain either the word ‘Analyst’ or the word ‘Analytics’? What word do these positions have in common?
     4
